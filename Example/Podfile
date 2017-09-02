@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'KKEasyTouch_Example' do
+  pod 'KKEasyTouch', :path => '../'
+  pod 'FLEX', '~> 2.4.0'
+
+  target 'KKEasyTouch_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

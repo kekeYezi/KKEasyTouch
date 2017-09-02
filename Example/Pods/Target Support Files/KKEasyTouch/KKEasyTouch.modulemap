@@ -1,0 +1,6 @@
+framework module KKEasyTouch {
+  umbrella header "KKEasyTouch-umbrella.h"
+
+  export *
+  module * { export * }
+}

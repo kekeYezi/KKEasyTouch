@@ -1,0 +1,23 @@
+{
+  "name": "KKEasyTouch",
+  "version": "0.1.0",
+  "summary": "KKEasyTouch 快捷出发方法的工具",
+  "description": "KKEasyTouch 提供一个快速的出发入口，便于平时开发测试，模拟一些出发条件的场景",
+  "homepage": "https://github.com/kekeyezi/KKEasyTouch",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "keke": "kekeyezi1992@163.com"
+  },
+  "source": {
+    "git": "https://github.com/kekeyezi/KKEasyTouch.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "KKEasyTouch/Classes/**/*",
+  "resources": "KKEasyTouch/Assets/**/*"
+}

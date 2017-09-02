@@ -1,0 +1,6 @@
+framework module Pods_KKEasyTouch_Example {
+  umbrella header "Pods-KKEasyTouch_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

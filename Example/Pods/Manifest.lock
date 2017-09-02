@@ -1,0 +1,19 @@
+PODS:
+  - FLEX (2.4.0)
+  - KKEasyTouch (0.1.0)
+
+DEPENDENCIES:
+  - FLEX (~> 2.4.0)
+  - KKEasyTouch (from `../`)
+
+EXTERNAL SOURCES:
+  KKEasyTouch:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FLEX: bd1a39e55b56bb413b6f1b34b3c10a0dc44ef079
+  KKEasyTouch: a3dbe90220eb9ce22cf0abdf21b317c38503e361
+
+PODFILE CHECKSUM: 57fa2daa3e21416442ea95fce88a8e0068ed636a
+
+COCOAPODS: 1.1.1
